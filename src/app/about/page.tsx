@@ -1,9 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function AboutPage() {
-  return (
-    <h1>
-      About Us!
-    </h1>
-  )
+  return <h1>About Us!</h1>;
 }
